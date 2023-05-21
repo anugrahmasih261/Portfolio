@@ -1,6 +1,6 @@
 # portfolio
 
-[LIVE]  ('https://anugrahportfolio.anugrahmasih.repl.co/')
+[LIVE](https://anugrahportfolio.anugrahmasih.repl.co/)
 
 
 
